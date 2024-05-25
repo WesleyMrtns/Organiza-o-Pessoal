@@ -1,0 +1,45 @@
+.App {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+h2 {
+  display: flex;
+  text-align: center;
+  color: #555;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-family: "Brygada 1918", serif;
+}
+
+button {
+  margin-left: 10px;
+  padding: 10px 15px;
+  background-color: #000;
+  color: #FFF;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #808080;
+}
+
+div {
+  margin-bottom: 10px;
+}
